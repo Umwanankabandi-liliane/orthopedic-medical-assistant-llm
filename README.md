@@ -39,7 +39,7 @@ The dataset consists of high-quality medical instruction-response pairs covering
 
 ##  Project Structure
 
-```
+
 OrthoAssist/
 ├── LLM_FineTuning_Pipeline.ipynb    # Main Colab notebook (end-to-end pipeline)
 ├── data_preprocessing.py              # Dataset preprocessing utilities
@@ -52,7 +52,7 @@ OrthoAssist/
 ├── RUBRIC_CHECKLIST.md                # Rubric compliance checklist
 └── experiments/
     └── hyperparameter_experiments.md   # Experiment tracking
-```
+
 
 ##  Fine-Tuning Methodology
 
@@ -103,7 +103,7 @@ The fine-tuned model demonstrates:
 -  Clear explanations of treatment options
 -  Safety disclaimers for medical advice
 
-## 💻 Usage Examples
+##  Usage Examples
 
 ### Example 1: Fracture Types
 **User**: "What are the different types of bone fractures?"
